@@ -32,16 +32,6 @@ So we built a lightweight dashboard to simplify attendance management for facult
 - Gulp build pipeline (Sass compilation, minify, live reload) :contentReference[oaicite:6]{index=6}
 
 ---
+<img width="1437" height="658" alt="Screenshot 2026-01-28 at 1 48 01 PM" src="https://github.com/user-attachments/assets/585bd280-99e3-4b17-b2c0-cac2745b3acb" />
 
-## 📸 Screens (optional but recommended)
-Add screenshots/gifs here (super helpful for recruiters):
 
-- Dashboard
-- Add Class
-- Attendance Table
-- Login / Forgot Password
-
-Example:
-```txt
-/docs/screenshots/dashboard.png
-/docs/screenshots/login.png
